@@ -16,6 +16,7 @@ RUN apt-get -y update && apt-get -y install \
 	git \
 	imagemagick \
 	libncurses5-dev \
+	libsamplerate0-dev \
 	locales \
 	make \
 	p7zip-full \
